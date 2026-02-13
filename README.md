@@ -1,2 +1,2 @@
 # pre-matricula-cli
-Sistema CLI para automação de pré-matrículas escolares com validação de CPF e integração de busca de CEP (ViaCEP). Desenvolvido para otimizar o atendimento na recepção do colégio.
+Protótipo Sistema CLI para automação de pré-matrículas escolares com validação de CPF e integração de busca de CEP (ViaCEP). Desenvolvido para otimizar o atendimento na recepção de um colégio.
